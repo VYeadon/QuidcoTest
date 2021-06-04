@@ -1,7 +1,7 @@
 asgiref==3.2.7
 attrs==19.3.0
 autopep8==1.5
-Django==3.0.5
+Django==3.1.9
 djangorestframework==3.11.0
 djangorestframework-api-key==1.4.1
 importlib-metadata==1.6.0
